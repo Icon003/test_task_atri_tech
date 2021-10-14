@@ -1,0 +1,17 @@
+:root {
+	--text-color: #000000;
+
+	--button-background-color: #ffffff;
+	--button-focus-background-color: #d9d9d9;
+	--button-border-color: #808080;
+
+	--dropdown-border-color: #000000;
+	--dropdown-background-color: #ffffff;
+
+	--border-input-color: #808080;
+
+	--main-border-table-color: #000000;
+	--second-border-table-color: #808080;
+
+	--loader-background-color: #000000;
+}

@@ -83,7 +83,7 @@ export default {
 	},
 	async created() {
 		try {
-			const response = await axios.get("https://raw.githubusercontent.com/a-mazalov/file-storage/main/currencies.json")
+			const response = await axios.get("https://raw.githubusercontent.com/Icon003/files-storage/main/currencies.json")
 			this.tableData = response?.data
 			this.switchLoadingStatus()
 		} catch (error) {

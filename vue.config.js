@@ -1,3 +1,3 @@
 module.exports = {
-	publicPath: "/test_tast_atri_tech/",
+	publicPath: "/test_task_atri_tech/",
 }
